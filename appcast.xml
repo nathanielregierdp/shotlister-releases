@@ -5,6 +5,15 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.14.0</title>
+      <pubDate>Tue, 27 Oct 2026 15:29:51 -0700</pubDate>
+      <sparkle:version>2502</sparkle:version>
+      <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Shoot days follow Projects Console both ways: days picked on either calendar show on the other.&lt;/li&gt;&lt;li&gt;Export: a Monochrome option, set for a black-and-white printer.&lt;/li&gt;&lt;li&gt;Beats: its own mode, edited in line, tallied on the strips.&lt;/li&gt;&lt;li&gt;Schedule: stripboard-coloured strips with column heads; right-click any scene to schedule it on a day; dragging a scene no longer sticks.&lt;/li&gt;&lt;li&gt;Table export: each shoot day opens its own page under a banner.&lt;/li&gt;&lt;li&gt;Diagram: one shortcut map, words wrap to their box, door kinds, lamps show which way they point.&lt;/li&gt;&lt;li&gt;Completed replaces Shot as the done column.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.14.0/Shotlister-Studio-0.14.0.zip" length="22584607" type="application/octet-stream" sparkle:edSignature="dnCwl6i32XfIutstwGLb1TK8RBRKtLoUso9NQhqFAskEOjRjWYh+c91ALEvGiaTOVbgDqMs8vO6+64Ddt2bQAw==" />
+    </item>
+    <item>
       <title>0.13.2</title>
       <pubDate>Fri, 23 Oct 2026 12:18:37 -0700</pubDate>
       <sparkle:version>2404</sparkle:version>
