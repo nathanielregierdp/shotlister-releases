@@ -5,6 +5,15 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.15.0</title>
+      <pubDate>Thu, 29 Oct 2026 16:07:23 -0700</pubDate>
+      <sparkle:version>2513</sparkle:version>
+      <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Scene Checklist (a mod, on for Charisma): tick each scene on a shoot day as you shoot it; ticked scenes are crossed off and each day shows how many are shot.&lt;/li&gt;&lt;li&gt;Schedule: a Script button opens the script beside the schedule, and pressing a scene jumps the script to it.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.15.0/Shotlister-Studio-0.15.0.zip" length="22614036" type="application/octet-stream" sparkle:edSignature="LKzyAfm7blp3/5Umz/IEEK+jEAhLQC46cRxc3YcE5lgYdYFmuYeE17RvwWCu8Xf3FhHb99iEdP75g/BClvazAA==" />
+    </item>
+    <item>
       <title>0.14.0</title>
       <pubDate>Tue, 27 Oct 2026 15:29:51 -0700</pubDate>
       <sparkle:version>2502</sparkle:version>
