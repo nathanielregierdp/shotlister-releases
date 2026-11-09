@@ -5,6 +5,15 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.16.0</title>
+      <pubDate>Sun, 08 Nov 2026 17:32:52 -0800</pubDate>
+      <sparkle:version>2551</sparkle:version>
+      <sparkle:shortVersionString>0.16.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Studio hears the moment a project changes in Projects Console, on the phone or on the server, and updates its shoots and days within about a second instead of every five minutes.&lt;/li&gt;&lt;li&gt;A day or a shoot removed in Projects Console stays removed. Studio never gives a stray day back to a shoot by its date.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.16.0/Shotlister-Studio-0.16.0.zip" length="22612449" type="application/octet-stream" sparkle:edSignature="I2bVf59kkUUJW+1weF77q7fLQe5taUJHtismydAfvnVV2hlI0Ri1TAotjld5VwCwmeme+gktz33Y+pFtn0ybDQ==" />
+    </item>
+    <item>
       <title>0.15.0</title>
       <pubDate>Thu, 29 Oct 2026 16:07:23 -0700</pubDate>
       <sparkle:version>2513</sparkle:version>
