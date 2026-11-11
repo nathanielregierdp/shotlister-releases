@@ -5,6 +5,15 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.17.1</title>
+      <pubDate>Tue, 10 Nov 2026 21:51:19 -0800</pubDate>
+      <sparkle:version>2579</sparkle:version>
+      <sparkle:shortVersionString>0.17.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;A linked project's title, director and other facts always come from the project record, so Studio can't show an old copy.&lt;/li&gt;&lt;li&gt;Storyboards and boards use the frame shape from the spec sheet.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.17.1/Shotlister-Studio-0.17.1.zip" length="22612801" type="application/octet-stream" sparkle:edSignature="AVumwzu208eba2XheVwZl+ZEWpIN9EtEqYjCMzLW3W/F2+nOnzp5wknUd4YMmoCLx1YjI1aIrlzwGGXhSv1kDg==" />
+    </item>
+    <item>
       <title>0.17.0</title>
       <pubDate>Tue, 10 Nov 2026 12:04:23 -0800</pubDate>
       <sparkle:version>2559</sparkle:version>
