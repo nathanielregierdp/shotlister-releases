@@ -5,6 +5,15 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.17.2</title>
+      <pubDate>Wed, 11 Nov 2026 18:23:18 -0800</pubDate>
+      <sparkle:version>2592</sparkle:version>
+      <sparkle:shortVersionString>0.17.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Links from Quick Open and the iPhone can open a scene, a location or a shoot day, not just a page.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.17.2/Shotlister-Studio-0.17.2.zip" length="22616979" type="application/octet-stream" sparkle:edSignature="ASmqhJZv8gEaFMt3p9wcCPG3z3ZnMW9geHeOlxFizj6TrWO9UDmvp2wzkC89HUOFxu1QS7ZZbVaHC61jMwteDA==" />
+    </item>
+    <item>
       <title>0.17.1</title>
       <pubDate>Tue, 10 Nov 2026 21:51:19 -0800</pubDate>
       <sparkle:version>2579</sparkle:version>
