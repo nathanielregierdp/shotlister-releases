@@ -5,6 +5,15 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.18.0</title>
+      <pubDate>Fri, 13 Nov 2026 14:23:29 -0800</pubDate>
+      <sparkle:version>2630</sparkle:version>
+      <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Edit Scan: one view to fix a room scan, the same in Studio, on the portal and on the iPhone. Move, add and remove walls; set doors and windows (size, hinge and swing); place, turn and size objects from the Set library. Each change can be reset on its own, or the whole room or all objects at once, and everything can be undone.&lt;/li&gt;&lt;li&gt;Update from Scan in each Diagram's menu brings an edited scan into plans laid before the edit.&lt;/li&gt;&lt;li&gt;The Locations photo shape is now saved with the project, and the portal follows it; each board's shape is followed too.&lt;/li&gt;&lt;li&gt;Renaming a location whose folder already exists in Drive merges into it instead of making a second one.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.18.0/Shotlister-Studio-0.18.0.zip" length="22628249" type="application/octet-stream" sparkle:edSignature="XU6LAtL2LVuKKo1jToZ6CQYiLWKtMRaulANX6zwFUih0L5f8CsjiUeF6r+y5rO/GSsX7mQ4jRjTcvD6l852nDA==" />
+    </item>
+    <item>
       <title>0.17.2</title>
       <pubDate>Wed, 11 Nov 2026 18:23:18 -0800</pubDate>
       <sparkle:version>2592</sparkle:version>
