@@ -5,6 +5,15 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.21.1</title>
+      <pubDate>Sun, 15 Nov 2026 11:31:50 -0800</pubDate>
+      <sparkle:version>2884</sparkle:version>
+      <sparkle:shortVersionString>0.21.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Document view: moving between lines is instant again. Leaving a shot you didn&amp;#39;t change no longer saves it twice.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.21.1/Project-Studio-0.21.1.zip" length="23679411" type="application/octet-stream" sparkle:edSignature="ARxOTv+VxAVxVaZuvXskzKTvexmgz2R2oDi4PO+man27rFSn7g52OixH+K1bpMCjrSPsh2prvjd79tRG2RP3Cw==" />
+    </item>
+    <item>
       <title>0.21.0</title>
       <pubDate>Sun, 15 Nov 2026 11:07:39 -0800</pubDate>
       <sparkle:version>2881</sparkle:version>
