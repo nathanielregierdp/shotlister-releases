@@ -5,6 +5,15 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.19.0</title>
+      <pubDate>Sat, 14 Nov 2026 23:51:02 -0800</pubDate>
+      <sparkle:version>2828</sparkle:version>
+      <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Studio is now Project Studio.&lt;/li&gt;&lt;li&gt;Every tab has one header row, and one View panel holds that tab's options.&lt;/li&gt;&lt;li&gt;The Schedule is a strip board in Movie Magic colours, with square strips, a colour key, the synopsis on each strip and an Unscheduled section. Split scenes show Part 1 of 3, and scenes with no shots can go on a day.&lt;/li&gt;&lt;li&gt;Time of Day: Day, Night, Morning, Evening, Dawn and Dusk plus your own, with interior and exterior colours. Headings are read for their time (SUNSET is Dusk; CONTINUOUS takes the scene before), and one picker can set it by hand.&lt;/li&gt;&lt;li&gt;Type a shot straight into the Document view, and Document view text is crisp again.&lt;/li&gt;&lt;li&gt;Archive a location you aren't using; Bring Back puts it back. Original Shape photo grids line up in equal squares.&lt;/li&gt;&lt;li&gt;Undo instead of "Are you sure?" where it can be undone.&lt;/li&gt;&lt;li&gt;Fixed: Studio could crash on opening when it reopened on Locations, and typed notes could land on the wrong location.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.19.0/Project-Studio-0.19.0.zip" length="23549720" type="application/octet-stream" sparkle:edSignature="6VQML6csD1Xrhgk3L7u37wHnfCWMgcs2yZPz/N8eW6KO9hysWJgZ6XAf6FiXJTb4MPw6cbxzaiZ33KgciLntCQ==" />
+    </item>
+    <item>
       <title>0.18.0</title>
       <pubDate>Fri, 13 Nov 2026 14:23:29 -0800</pubDate>
       <sparkle:version>2630</sparkle:version>
