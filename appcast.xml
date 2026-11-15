@@ -5,6 +5,15 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.22.0</title>
+      <pubDate>Sun, 15 Nov 2026 12:14:44 -0800</pubDate>
+      <sparkle:version>2890</sparkle:version>
+      <sparkle:shortVersionString>0.22.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Document view types on the paper: a shot keeps your sentence word for word, and words tied to a column follow it (change the size in the table and the sentence says the new size). No side panel or chips while you type; anything the sentence didn&amp;#39;t say sits on one quiet line underneath.&lt;/li&gt;&lt;li&gt;The printed and shared pages show typed shots the same way.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.22.0/Project-Studio-0.22.0.zip" length="23711960" type="application/octet-stream" sparkle:edSignature="8Qc+yTYmumirQp1n0PwL+b4HL1vK7LHYWlBFsQ6Yrb4FvP3OAgnTmKSoCKGXV9wna2ttFkqnf/wYryGSIip2Bg==" />
+    </item>
+    <item>
       <title>0.21.1</title>
       <pubDate>Sun, 15 Nov 2026 11:31:50 -0800</pubDate>
       <sparkle:version>2884</sparkle:version>
