@@ -5,6 +5,15 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.20.0</title>
+      <pubDate>Sun, 15 Nov 2026 03:52:03 -0800</pubDate>
+      <sparkle:version>2857</sparkle:version>
+      <sparkle:shortVersionString>0.20.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;The Table matches the new design: scene headings tinted by Time of Day, tags as coloured words, columns that fit the window, and a full-height sidebar with each scene's shot count.&lt;/li&gt;&lt;li&gt;Storyboard rows line up: every frame in a row is the same height and keeps its own shape, the words under each frame sit in a fixed block, and each scene starts under a bold heading that stays at the top as you scroll.&lt;/li&gt;&lt;li&gt;Document view: dragging a picture feels natural, and the page opens ready to type a new shot.&lt;/li&gt;&lt;li&gt;Everything before the first dash in a description becomes the shot's title. Edit ▸ Split Titles… does it for shots you already have.&lt;/li&gt;&lt;li&gt;The Diagram's tools sit in one slim row, with Room, Copy, Export… and View at the top.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.20.0/Project-Studio-0.20.0.zip" length="23665440" type="application/octet-stream" sparkle:edSignature="RDS4edWD0Sgc1c4sKTbhDTta/0nRrhinLtVTJTn+Eifua3oAN5jEJ1zQ+SNOayumbXckjZeIviTMLGPwSZHhCg==" />
+    </item>
+    <item>
       <title>0.19.0</title>
       <pubDate>Sat, 14 Nov 2026 23:51:02 -0800</pubDate>
       <sparkle:version>2828</sparkle:version>
