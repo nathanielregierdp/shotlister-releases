@@ -5,6 +5,15 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.22.2</title>
+      <pubDate>Sun, 15 Nov 2026 17:34:51 -0800</pubDate>
+      <sparkle:version>2904</sparkle:version>
+      <sparkle:shortVersionString>0.22.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Long films scroll smoothly: the sidebar and the big scene heading catch up when you pause, and clicking a scene is quicker.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.22.2/Project-Studio-0.22.2.zip" length="23723293" type="application/octet-stream" sparkle:edSignature="wEcZzbM5iHIp2fB1ZEH1C8LfL/zEhBZhJxutwZw7dBsRAy1GT5jzA0PBTIwnYU6dn7XX6kyTuoMpp/JxwOUKDQ==" />
+    </item>
+    <item>
       <title>0.22.1</title>
       <pubDate>Sun, 15 Nov 2026 12:51:28 -0800</pubDate>
       <sparkle:version>2893</sparkle:version>
