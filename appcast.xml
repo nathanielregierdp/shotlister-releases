@@ -5,6 +5,15 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.24.0</title>
+      <pubDate>Wed, 18 Nov 2026 15:18:36 -0800</pubDate>
+      <sparkle:version>3019</sparkle:version>
+      <sparkle:shortVersionString>0.24.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;The Schedule calendar now starts its weeks on Sunday.&lt;/li&gt;&lt;li&gt;A day picked on the calendar before your first day becomes Day 1, and the days after it move down, so days always follow the calendar.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.24.0/Project-Studio-0.24.0.zip" length="24076567" type="application/octet-stream" sparkle:edSignature="9UWZvEA5dFiGBFTcjLXXUwp4dRlXuEPzY+FVaWRUzzMXkoqAbEpbm37wFZNRoZE70KXvMa2+FR2hLlxS7qnxAA==" />
+    </item>
+    <item>
       <title>0.23.0</title>
       <pubDate>Wed, 18 Nov 2026 11:22:40 -0800</pubDate>
       <sparkle:version>3015</sparkle:version>
