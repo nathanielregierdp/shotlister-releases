@@ -5,6 +5,15 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.23.0</title>
+      <pubDate>Wed, 18 Nov 2026 11:22:40 -0800</pubDate>
+      <sparkle:version>3015</sparkle:version>
+      <sparkle:shortVersionString>0.23.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;New Story Timeline mod: story days on scenes, a Day Rows view with night and day totals, and warnings. Mods sit apart in the top bar.&lt;/li&gt;&lt;li&gt;Importing a new script draft now makes the project match it: scene numbers, doubled numbers (it asks first), heading changes, sub-headings and the Cast tab all follow the script.&lt;/li&gt;&lt;li&gt;Rooms are called areas in the import sheet.&lt;/li&gt;&lt;li&gt;Hopping between locations no longer freezes: pictures load in the background.&lt;/li&gt;&lt;li&gt;A shot let go between scenes of its own day stays there; the schedule day header shows the shoot's name.&lt;/li&gt;&lt;li&gt;A lens's set follows the library, not an old copy on the sheet.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.23.0/Project-Studio-0.23.0.zip" length="24076492" type="application/octet-stream" sparkle:edSignature="aPyH2cro96XDA2XIHaCLxrouWgRnDAFdDdbJPBW/tP3GG61rVm9Mhz7IpYOknIWy8JiozB27OS2LhFinSFUSBg==" />
+    </item>
+    <item>
       <title>0.22.2</title>
       <pubDate>Sun, 15 Nov 2026 17:34:51 -0800</pubDate>
       <sparkle:version>2904</sparkle:version>
